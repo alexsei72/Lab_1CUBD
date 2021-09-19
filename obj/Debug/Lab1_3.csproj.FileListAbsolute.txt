@@ -1,0 +1,14 @@
+D:\СУБД\Lab1_3\bin\Debug\Lab1_3.exe.config
+D:\СУБД\Lab1_3\bin\Debug\Lab1_3.exe
+D:\СУБД\Lab1_3\bin\Debug\Lab1_3.pdb
+D:\СУБД\Lab1_3\obj\Debug\Lab1_3.csprojAssemblyReference.cache
+D:\СУБД\Lab1_3\obj\Debug\Lab1_3.csproj.CoreCompileInputs.cache
+D:\СУБД\Lab1_3\obj\Debug\Lab1_3.exe
+D:\СУБД\Lab1_3\obj\Debug\Lab1_3.pdb
+E:\СУБД\Lab1_3\bin\Debug\Lab1_3.exe.config
+E:\СУБД\Lab1_3\bin\Debug\Lab1_3.exe
+E:\СУБД\Lab1_3\bin\Debug\Lab1_3.pdb
+E:\СУБД\Lab1_3\obj\Debug\Lab1_3.csprojAssemblyReference.cache
+E:\СУБД\Lab1_3\obj\Debug\Lab1_3.csproj.CoreCompileInputs.cache
+E:\СУБД\Lab1_3\obj\Debug\Lab1_3.exe
+E:\СУБД\Lab1_3\obj\Debug\Lab1_3.pdb
